@@ -41,3 +41,9 @@ print(name.startswith("Obhi"))  #even its "case sensitive"
         s.isupper(): Returns True if all characters are uppercase.
         
 '''
+
+#replase function 
+
+q = "Avijit is a damn goood booy"
+r = q.replace("damn", "vey")
+print(r)
