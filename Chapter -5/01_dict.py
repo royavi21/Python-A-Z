@@ -1,4 +1,7 @@
 # DICTIONARY in python
+
+#a = {} # this is an empty dict
+
 marks = {
     "Avijit": 89,
     "Rohan": 87,
