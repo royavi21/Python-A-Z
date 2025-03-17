@@ -2,7 +2,7 @@
 # Write a program to create a dictionary of Bangla words with values as their English translation. Provide user with an option to look it up! 
 
 # Bangla to English Dictionary
-bangla_to_english = {
+'''bangla_to_english = {
     "আপেল": "Apple",
     "বই": "Book",
     "মানুষ": "Human",
@@ -27,3 +27,15 @@ def translate():
 # Run the translation function
 if __name__ == "__main__":
     translate()
+'''
+
+words = {
+  "sahajjo": "Help",
+  "khusi": "Happy",
+  "biral": "Cat",
+  "kukur": "Dog"
+ }
+
+word = input("Enter the word you want to meaning of: ")
+
+print(words[word])
