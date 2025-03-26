@@ -3,6 +3,6 @@
 import pyautogui
 import time
 while True:
-    time.sleep(2)
+    time.sleep(1)
     pyautogui.typewrite("Hola man")
     pyautogui.press('enter')
