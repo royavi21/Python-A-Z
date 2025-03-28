@@ -6,6 +6,8 @@ for i in range(50):
     print(i)
 
 for i in range(30):
-    if i ==19:
-        continue   #Skip the iteration right now. ❌
+    if i ==19:  #19 will skip in the output.
+        continue   #Skip the iteration ❌
     print(i)
+
+    
