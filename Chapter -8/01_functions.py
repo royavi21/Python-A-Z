@@ -12,3 +12,10 @@ avg()   #call the function
 print("Thanks for using our program")
 avg()   #again call the function.
 #You can call functions anytime and anywhere in the program.
+ # Write a program to greet a user with “Good day” using functions.
+
+def greet_user():
+    print("Good day!")
+
+# Calling the function
+greet_user()
