@@ -8,6 +8,8 @@ It's like ROCK-PAPER-SEASER game
 
 This game's output is like this:
 
+**Snake beats Water, Water beats Gun, and Gun beats Snake**
+
 | s = snake | w = water | g = gun |
 
 Enter your choice: w
