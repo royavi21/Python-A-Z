@@ -8,3 +8,4 @@ print("*\n**\n***")
 print("Going to khulna tomorrow - may 8\nwriting in may 7th.")
 
 print("Hello world!")
+print("Hello world🥲")
