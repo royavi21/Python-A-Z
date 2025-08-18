@@ -1,3 +1,4 @@
-f = open("file.txt")
-print(f.read())
+f = open("file.txt", "r")
+data = f.read()
+print(data)
 f.close()

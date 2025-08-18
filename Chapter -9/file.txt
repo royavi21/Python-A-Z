@@ -1,2 +1,4 @@
-Avijit Roy is a good boy.
-This is a text file with .txt extension.
+Hello, this is Avijit Roy.
+I'm a student!
+This is a multiple line paragraph.
+Twinkle twinkle little star
