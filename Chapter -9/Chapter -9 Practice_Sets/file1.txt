@@ -1,0 +1,3 @@
+This is file number 1;
+
+We're going to check if this file content is matched with file2.txt

@@ -1,0 +1,1 @@
+  Whatever I write here, after running p10.py this file will be wiped out.
