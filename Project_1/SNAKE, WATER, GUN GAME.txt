@@ -1,0 +1,18 @@
+            PROJECT 1: SNAKE, WATER, GUN GAME
+
+
+We all have played snake, water gun game in our childhood.
+
+So this is a same game where you can play with computer.
+It's like ROCK-PAPER-SEASER game
+
+This game's output is like this:
+
+**Snake beats Water, Water beats Gun, and Gun beats Snake**
+
+| s = snake | w = water | g = gun |
+
+Enter your choice: w
+You chose Water
+Computer chose Gun
+You win!
