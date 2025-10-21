@@ -6,6 +6,7 @@
 import random
 
 computer = random.choice([-1, 0, 1])
+print("Choose one: \n s for Snake \n w for Water \n g for Gun")
 youStr = input("Enter your choice: ")
 youDict = {"s": 1, "w": -1, "g": 0}
 reverseDict = {1: "Snake", -1: "Water", 0: "Gun"}
