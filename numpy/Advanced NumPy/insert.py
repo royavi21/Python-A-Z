@@ -1,0 +1,18 @@
+"""
+np.insert(array, index, value, asix=None)
+array - original array
+index - 
+values - 
+axis - 
+axis - 0, row-wise
+       1, column wise
+       
+"""
+
+import numpy as np
+arr = np.array([10,20,30,40,50,60])
+print(arr) #[10 20 30 40 50 60]
+
+new_array = np.insert(arr, 2, 100)
+print(new_array) #[ 10  20 100  30  40  50  60]
+

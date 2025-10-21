@@ -1,0 +1,8 @@
+Builtin Functions:
+
+*np.isnan -> detect missing values
+
+*np.na-to-num()
+
+*np.isinf() -> to detect infinite values
+

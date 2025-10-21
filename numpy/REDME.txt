@@ -1,0 +1,14 @@
+This is the python library <numpy> practice
+
+From today, I start learn numpy. 
+
+-------------------------------------------
+
+in terminal:-Use this command (pip install numpy) to install numpy. 
+
+import for use. Ex:
+
+import numpy as np 
+
+-------------------------------------------
+Using this video tutorial : https://www.youtube.com/watch?v=9DhZ-JCWvDw&t=2384s
